@@ -6,8 +6,8 @@ En este ejercicio tenemos que observar e identificar los tipos de navegacion de 
 
 ![breather](assets/images/breather-1.jpg)
 ![breather](assets/images/breather-2.JPG)
+![breather](assets/images/breather-3.JPG)
 ![breather](assets/images/breather.JPG)
-![breather](assets/images/breather-4.JPG)
 ![github](assets/images/github.jpg)
-![medium](assets/images/medium.jpg)
-![medium](assets/images/medium.JPG)
+![medium](assets/images/medium-1.jpg)
+![medium](assets/images/medium-2.JPG)
